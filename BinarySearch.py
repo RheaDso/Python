@@ -7,6 +7,7 @@ class Node:
         self.right = None
         self.val = key
 
+
     #Traverse Preorder
     def traversePreorder(self):
         print(self.val, end='')

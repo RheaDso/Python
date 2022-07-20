@@ -7,6 +7,7 @@ class Node:
         self.leftChild = None
         self.rightChild = None
 
+
 def isFullTree(root):
 
     if root is None:
